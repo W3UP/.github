@@ -1,4 +1,11 @@
+<span align="center">
+
 ## W3UP DAO ✺ [#W3UP](https://w3up.cc/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/@W3UPcc)
+[![ZB7K.eth](https://img.shields.io/static/v1?label=&message=0x4D71207a07406ab6cedA03f8E7e7bE3eB30bECe0&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=0x4D71207a07406ab6cedA03f8E7e7bE3eB30bECe0)
+  
+</span>
 
 **[W3 Name Service](https://w3up.cc/) (W3NS) Protocol** is a distributed, open, and scalable naming system based on **EVM blockchain**.
 
